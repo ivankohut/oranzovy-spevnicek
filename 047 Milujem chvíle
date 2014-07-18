@@ -3,7 +3,7 @@
   <title>Milujem chvíle</title>
   <author></author>
   <copyright></copyright>
-  <presentation>C1 C2 V1 C1 C2 V2 C1 C2 V3 C1 C2</presentation>
+  <presentation>C V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -15,26 +15,24 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C1]
+  <lyrics>[C]
   Milujem chvíle, keď ľud Boží
   v Pánovom dome
   sa k oslave stretne,
   mám rád chvíle, keď ľud Boží
   v Pánovom dome
-  sa k oslave stretne.
-[C2]
+  sa k oslave stretne.||
   Aká nádhera zrieť 
   pokoj žiariť v tvári,
   ľud keď Pána velebí, chváli.
   Krásne chvíle, keď ľud Boží
-  do domu svojho 
-  zhromaždí Pán 
+  do domu svojho zhromaždí Pán 
   k svätým oslavám.
 [V1]
   Radosť lásku znásobí,
   svornosť keď nás ozdobí,
   z hrdiel zjednotených
-  zvučí chvály žalm.
+  zvučí chvály žalm.||
   Tam sa cítim doma,
   Duch kde vládne neobmedzený,
   dobre, že som s Božím
@@ -42,15 +40,18 @@
 [V2]
   Tam, kde dvaja, traja snáď,
   môžu Bohu chválu vzdať,
-  Svätý Duch tam rýdze srdcia požehná.
+  Svätý Duch tam 
+  rýdze srdcia požehná.||
   Väčšiu radosť,
-  krajšie priateľstvo ja nikde nepoznám,
-  pravé šťastie vnesie medzi svojich Pán.
+  krajšie priateľstvo 
+  ja nikde nepoznám,
+  pravé šťastie vnesie 
+  medzi svojich Pán.
 [V3]
   Svitne zjednotenia deň,
   svätých svedkov pochodeň,
   z celej zeme vtiahne
-  do perlových brán.
+  do perlových brán.||
   Pred tvár Kráľa kráľov
   zhromaždený bude každý z nás,
   radosť nevídaná,

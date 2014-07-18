@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>93</hymn_number>
-  <presentation>V1 V2 V1 V3</presentation>
+  <presentation>C V1 C V2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,21 +16,21 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
+  <lyrics>[C]
  Ty mojou silou si 
  a piesňou slobody 
  a viem, Ty že so mnou si
  a v Teba len dúfať smiem,
  v Tebe silu mám. 
-[V2]
+[V1]
  Dôverujem Ti, 
  dôverujem Ti. 
  Keď som slabý hovorím:
  „Ty môj si Pán.“
-[V3]
+[V2]
  Dôverujem Ti, 
  dôverujem Ti. 
  Keď som slabý hovorím:
  „Ty môj si Pán, 
  v Tebe silu mám.“
-</lyrics></song>
+ </lyrics></song>
