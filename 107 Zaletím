@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zaletím</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>107</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Jedno ráno, keď môj život skončí,
  ja zaletím.
@@ -34,4 +21,5 @@
  Možno ešte únavných pár dní
  a ja zaletím.
  Do zeme, kde radosť nekončí,
- ja zaletím.</lyrics></song>
+ ja zaletím.</lyrics>
+</song>

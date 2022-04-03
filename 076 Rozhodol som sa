@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Rozhodol som sa</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>76</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Rozhodol som sa ísť za Ježišom,
  rozhodol som sa ísť za Ježišom,
@@ -34,4 +21,5 @@
 [V4]
  Poď, bratu, so mnou, poď za Ježišom,
  poď, bratu, so mnou, poď za Ježišom,
- poď, bratu, so mnou, poď za Ježišom,</lyrics></song>
+ poď, bratu, so mnou, poď za Ježišom,</lyrics>
+</song>

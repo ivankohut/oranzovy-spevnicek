@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ak máš v srdci smútok</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>3</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ak máš v srdci smútok,
  na kríž pozri dnes,
@@ -47,4 +34,5 @@
  Neuškodí zhubca,
  ochráni nás Pán.
  Na cestu Boží pokoj
- svieti ako lúč.</lyrics></song>
+ svieti ako lúč.</lyrics>
+</song>

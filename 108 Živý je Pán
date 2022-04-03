@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Živý je Pán</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>108</hymn_number>
   <presentation>C V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  /: Živý je Pán, živý je Pán,
  živý je Pán na veky vekov. :/
@@ -32,4 +19,5 @@
  nemôže vojsť do kráľovstva Jeho.
  Iste nikto s Ním nevojde
  do Božej slávy,
- ak sa z Boha znova nenarodí.</lyrics></song>
+ ak sa z Boha znova nenarodí.</lyrics>
+</song>

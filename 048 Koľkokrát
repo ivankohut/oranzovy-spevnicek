@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Koľkokrát</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>48</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Koľkokrát, Pane môj,
  vydávam sa za Tebou,
@@ -42,4 +29,5 @@
  Keď mám žiaľ, Pane môj,
  viem, že mám ísť za Tebou,
  lebo Ty si radosť,
- ktorú rád mi dáš.</lyrics></song>
+ ktorú rád mi dáš.</lyrics>
+</song>

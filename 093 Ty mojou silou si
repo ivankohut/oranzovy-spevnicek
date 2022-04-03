@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ty mojou silou si</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>93</hymn_number>
   <presentation>C V1 C V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  Ty mojou silou si
  a piesňou slobody
@@ -32,4 +19,5 @@
  dôverujem Ti.
  Keď som slabý hovorím:
  „Ty môj si Pán,
- v Tebe silu mám.“</lyrics></song>
+ v Tebe silu mám.“</lyrics>
+</song>

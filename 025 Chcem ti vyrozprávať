@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Chcem ti vyrozprávať</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>25</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Chcem ti vyrozprávať
  čím je pre mňa Ježiš,
@@ -48,4 +36,4 @@
  s Ním splyniem,
  až Ho uvidím
  v tej ríši večných krás.</lyrics>
-  <hymn_number>25</hymn_number></song>
+</song>

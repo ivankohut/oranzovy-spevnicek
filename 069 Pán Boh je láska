@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pán Boh je láska</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>69</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pán Boh je láska,
  dal nás vykúpiť.
@@ -45,4 +32,5 @@
  Tebe chcem slúžiť,
  Teba velebiť,
  Tebe česť vzdávať,
- kým žijem len.</lyrics></song>
+ kým žijem len.</lyrics>
+</song>

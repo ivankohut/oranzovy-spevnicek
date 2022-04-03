@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Já dal jsem život</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>32</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Já dal jsem život svůj,
  svou svatou prolil krev.
@@ -43,4 +30,5 @@
  Svou spásu s štěstím vším,
  svou lásku, nebe své.||
  /: Já přináším ti dary své,
- co mně jsi přines ty? :/</lyrics></song>
+ co mně jsi přines ty? :/</lyrics>
+</song>

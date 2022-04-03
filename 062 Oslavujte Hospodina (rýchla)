@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Oslavujte Hospodina (rýchla)</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>62</hymn_number>
   <presentation>C V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  /: Oslavujte Hospodina,
  vyvyšujte Jeho meno,
@@ -25,4 +12,5 @@
  Veliký a mocný
  je Hospodin náš Pán,
  úprimní a verní
- s Ním dôjdu neba brán.</lyrics></song>
+ s Ním dôjdu neba brán.</lyrics>
+</song>

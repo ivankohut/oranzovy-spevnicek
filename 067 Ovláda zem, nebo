@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ovláda zem, nebo</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>67</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ovláda zem, nebo,
  áno, má v moci noc, zore
@@ -34,4 +21,5 @@
  vždycky má moc
  nad všetkým tvorstvom,
  Pán Boh náš svet celý
- v svojej ruke má.</lyrics></song>
+ v svojej ruke má.</lyrics>
+</song>

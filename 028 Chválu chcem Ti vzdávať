@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Chválu chcem Ti vzdávať</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>28</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Chválu chcem
  Ti vzdávať,
@@ -35,4 +22,5 @@
  ja slávu menu lásky svätej,
  slávu menu lásky svätej,
  slávu menu lásky svätej
- vzdám.</lyrics></song>
+ vzdám.</lyrics>
+</song>

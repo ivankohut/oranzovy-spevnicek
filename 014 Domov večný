@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Domov večný</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>14</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Domov večný je mojej cesty cieľ,
  tam hore, kde je svätá zem.
@@ -37,4 +24,5 @@
  Potom pridám sa k svätým oslavám,
  tam hore, kde je svätá zem.
  Sláva, hosana, zvučne zaspievam,
- tam hore, kde je svätá zem.</lyrics></song>
+ tam hore, kde je svätá zem.</lyrics>
+</song>

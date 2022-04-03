@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Toľko dôvodov</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>90</hymn_number>
   <presentation>C1 V1 C2 C1 V2 C2 C1 V3 C2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C1]
  Toľko dôvodov, Pane, dal si nám,
  by sme spievali Tebe k sláve.
@@ -30,4 +17,5 @@
  keď Ty k práci voláš nás.
 [V3]
  Až sa trémou chveje hlas,
- koľkou láskou chrániš nás.</lyrics></song>
+ koľkou láskou chrániš nás.</lyrics>
+</song>

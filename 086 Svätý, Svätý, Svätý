@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Svätý, Svätý, Svätý</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>86</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Svätý, Svätý, Svätý,
  Hospodin zástupov.
@@ -24,4 +11,5 @@
  Zem celá je objatá slávou,
  zem celá je objatá slávou,
  zem celá je objatá slávou.
- Svätý Boh a Pán!</lyrics></song>
+ Svätý Boh a Pán!</lyrics>
+</song>

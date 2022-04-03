@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ešte krok</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>18</hymn_number>
   <presentation>C V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  Ešte krok, jeden krok,
  vieru daj pre jeden krok!
@@ -27,4 +14,5 @@
  nemaj strach z noci zlej.||
  Keď ti vraví Spasiteľ:
  „Som s tebou neboj sa!
- Za mnou poď! Stále bdej!“</lyrics></song>
+ Za mnou poď! Stále bdej!“</lyrics>
+</song>

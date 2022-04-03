@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>V srdci mi znie</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>104</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  V srdci mi znie sladká pesnička,
  z Ježišových slov ju znám:
@@ -35,4 +22,5 @@
  Zasľúbil Pán, že sa vráti zas,
  by nás vo svoj domov vzal.
  Do svojho nás príjme kráľovstva,
- kde On je náš slávny kráľ.</lyrics></song>
+ kde On je náš slávny kráľ.</lyrics>
+</song>

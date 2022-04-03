@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, ó, ó</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>63</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, ó, ó, ó,
  tak dobrý je náš Pán. 3x
@@ -24,4 +12,4 @@
 [V2]
  Pomáha Ti stále,
  tak dobrý je náš Pán. 3x</lyrics>
-  <hymn_number>63</hymn_number></song>
+</song>
